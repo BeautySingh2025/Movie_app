@@ -1,0 +1,16 @@
+# Env files
+.env
+
+db.sql
+# Node
+node_modules/
+
+# Flutter
+build/
+.dart_tool/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
